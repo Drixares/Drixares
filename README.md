@@ -1,7 +1,7 @@
 Hi 👋 My name is Mattéo
 =======================
 
-Student developer
+Web development student at IIM Digital School
 -----------------
 
 *   🌍  I'm based in France
