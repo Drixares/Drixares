@@ -5,7 +5,7 @@ Web development student at IIM Digital School
 -----------------
 
 *   🌍  I'm based in France
-*   🧠  I'm learning React & Express.
+*   🧠  I'm learning React, Express and some librairies like discordjs.
   
 ### Skills 
 <p align="left">
